@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lorenzo Lima</h1>
 
-- 🔥 Future Web Developer and UX/UI Designer
+- 🔥 I'm a Future Web Developer and UX/UI Designer
 
 - 🔭 I’m currently working at [Etaure](https://etaure.com.br)
 
